@@ -1,0 +1,49 @@
+# Firebase configurations & credentials
+.firebaserc
+google-services.json
+**/google-services.json
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+.env
+.env.*
+*.local
+
+# Flutter / Dart caches
+.dart_tool/
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+**/build/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+bower_components/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log*
+firebase-debug.*.log*
+
+# Firebase cache & runtime
+.firebase/
+pids
+*.pid
+*.seed
+*.pid.lock
+.nyc_output
+coverage/
+.eslintcache
+.npm

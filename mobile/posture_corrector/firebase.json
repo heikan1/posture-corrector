@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"your-firebase-project-id","appId":"1:123456789000:android:abcdef0123456789","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"your-firebase-project-id","configurations":{"android":"1:123456789000:android:abcdef0123456789","ios":"1:123456789000:ios:abcdef0123456789"}}}}}}
